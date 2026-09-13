@@ -1,6 +1,6 @@
 # 🎮 Hangman Game
 
-A simple console-based Hangman game developed using Python as part of the **CodeAlpha Python Programming Internship — Month 1**.
+A simple console-based Hangman game developed using Python as part of the **codealpha_tasks Internship — Month 1**.
 
 ---
 
@@ -214,5 +214,5 @@ This project was created for educational and internship purposes.
 
 **Istikhar Naz**
 
-**CodeAlpha Python Programming Internship — Task 1**
+**codealpha_tasks Internship — Task 1**
 
