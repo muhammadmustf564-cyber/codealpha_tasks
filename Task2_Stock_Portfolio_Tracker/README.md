@@ -139,5 +139,5 @@ Through this project, I practiced:
 
 **Istikhar Naz**
 
-**CodeAlpha Python Programming Internship — Task 2**
+**codealpha_tasks Internship — Task 2**
 
