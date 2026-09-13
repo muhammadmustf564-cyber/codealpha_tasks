@@ -103,4 +103,4 @@ CodeAlpha_Internship
 
 **Istikhar Naz**
 
-**CodeAlpha Python Programming Internship**
+**CodeAlpha_Tasks Internship**
