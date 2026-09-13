@@ -1,6 +1,6 @@
-# 🐍 CodeAlpha Python Programming Internship
+# 🐍 CodeAlpha_Tasks
 
-This repository contains the Python programming projects completed as part of my **CodeAlpha_TasksInternship**.
+This repository contains the Python programming projects completed as part of my **CodeAlpha_Tasks Internship**.
 
 These projects focus on developing practical Python applications while strengthening programming fundamentals such as user input, loops, conditional statements, dictionaries, and Python modules.
 
